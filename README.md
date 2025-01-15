@@ -4,9 +4,9 @@
 ---
 
 ## Group Members
+- Shujun Jiang
 - Rongrong Wang  
-- Jinying Xing  
-- Shujun Jiang  
+- Jinying Xing    
 - Zhe Zhou  
 
 ---
@@ -90,6 +90,11 @@
 ## Hypothesis
 - **H₀ (Null Hypothesis):** Multimodal models do not significantly improve performance (accuracy, sensitivity, specificity, AUC) compared to unimodal models.
 - **Alternative Hypothesis:** Multimodal models improve melanoma detection accuracy by integrating different data sources.
+
+---
+## Visualization
+- [tableau visualization 1](https://public.tableau.com/views/ResearchMethodandDataVisualiztionFinal/OriginalDataEDA?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [tableau visualization 2](https://public.tableau.com/views/MelanomaEDA/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
